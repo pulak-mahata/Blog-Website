@@ -1,0 +1,9 @@
+@media (max-width: 760px) {
+    .heading{
+        font-size: 50px;
+    }
+    .subHeading{
+        font-size: 7px;
+    }
+}
+
