@@ -2,7 +2,7 @@ import axios from 'axios'
 import { API_NOTIFICATION_MESSAGES , SERVICE_URLS} from '../constants/config.js';
 import { getAccessToken , getType } from '../utils/common-utils.js';
 // const API_URL = '';
-const API_URL =  'https://emerald-seal-hose.cyclic.app';
+const API_URL =  'https://emerald-seal-hose.cyclic.app/';
 // const API_URL = 'http://localhost:8000/';
 
 
