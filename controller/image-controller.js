@@ -13,8 +13,8 @@ conn.once('open', () => {
     gfs.collection('fs');
 });
 
-const url = 'https://emerald-seal-hose.cyclic.app';
-// const url = 'http://localhost:8000/';
+// const url = 'https://emerald-seal-hose.cyclic.app';
+const url = '';
 
 
 
