@@ -13,7 +13,7 @@ conn.once('open', () => {
     gfs.collection('fs');
 });
 
-const url = '';
+const url = 'https://encouraging-cod-bandanna.cyclic.app';
 // const url = 'http://localhost:8000/';
 
 
